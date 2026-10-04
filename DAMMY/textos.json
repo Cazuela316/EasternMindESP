@@ -1,0 +1,20 @@
+{
+ "source": "DAMMY.DIR",
+ "encoding": "cp1252",
+ "entries": [
+  {
+   "id": 20,
+   "cast_chunk": 19,
+   "cast_slot": 0,
+   "original": "[Tong-Nou] requires a VGA card capable of displaying 256 colors (8-bit color) at a minimum resolution of 640 by 480 pixels.\n",
+   "translation": "[Tong-Nou] requires a VGA card capable of displaying 256 colors (8-bit color) at a minimum resolution of 640 by 480 pixels.\n"
+  },
+  {
+   "id": 22,
+   "cast_chunk": 21,
+   "cast_slot": 1,
+   "original": "[Quick Time] has not been installed. [Quick Time](v2.0) is recommended and included on the disk. You can install it by launching the QuickTime installation program.\n\n",
+   "translation": "[Quick Time] has not been installed. [Quick Time](v2.0) is recommended and included on the disk. You can install it by launching the QuickTime installation program.\n\n"
+  }
+ ]
+}

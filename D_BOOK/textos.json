@@ -1,0 +1,41 @@
+{
+ "source": "D_BOOK.DXR",
+ "encoding": "cp1252",
+ "entries": [
+  {
+   "id": 257,
+   "cast_chunk": 256,
+   "cast_slot": 86,
+   "original": "g_Boulde\ng_Chastle\ng_ChiFa1\ng_ChiFa2\ng_Entran\ng_Flower\ng_King\ng_NonFai\ng_Palace\ng_Palm\ng_PuRyao\ng_rmBud\ng_rmSha\ng_Roof\ng_ShowMi\ng_ssaver\ng_TongSi\ng_Tonnel\n",
+   "translation": "g_Boulde\ng_Chastle\ng_ChiFa1\ng_ChiFa2\ng_Entran\ng_Flower\ng_King\ng_NonFai\ng_Palace\ng_Palm\ng_PuRyao\ng_rmBud\ng_rmSha\ng_Roof\ng_ShowMi\ng_ssaver\ng_TongSi\ng_Tonnel\n"
+  },
+  {
+   "id": 259,
+   "cast_chunk": 258,
+   "cast_slot": 87,
+   "original": "w_AUN\nw_King\nw_lake1\nw_lake2\nw_Palac1\nw_Palac2\nw_rm1\nw_rm2\nw_rm3\nw_rm4\nw_rm5\nw_rm6\nw_rm7\nw_rmAUN\nw_rmDump\nw_rmEye\nw_rmIll\nw_rmKai\nw_rmMaga\nw_rmMap\nw_rmMin\nw_rmSha\nw_rmYui\nw_Tonnel\nw_zen\nw_zen2\nr_zen\nr_zen2",
+   "translation": "w_AUN\nw_King\nw_lake1\nw_lake2\nw_Palac1\nw_Palac2\nw_rm1\nw_rm2\nw_rm3\nw_rm4\nw_rm5\nw_rm6\nw_rm7\nw_rmAUN\nw_rmDump\nw_rmEye\nw_rmIll\nw_rmKai\nw_rmMaga\nw_rmMap\nw_rmMin\nw_rmSha\nw_rmYui\nw_Tonnel\nw_zen\nw_zen2\nr_zen\nr_zen2"
+  },
+  {
+   "id": 261,
+   "cast_chunk": 260,
+   "cast_slot": 88,
+   "original": "f_field\nf_king\nf_tonnel\nf_tower1\nf_tower2\nf_tower3\nr_gyou\nr_gyou2\n",
+   "translation": "f_field\nf_king\nf_tonnel\nf_tower1\nf_tower2\nf_tower3\nr_gyou\nr_gyou2\n"
+  },
+  {
+   "id": 263,
+   "cast_chunk": 262,
+   "cast_slot": 89,
+   "original": "l_field\nl_forest\nl_inner\nl_king\nl_ogre\nl_tonnel\nl_wood\nl_WtoR\nr_lets\nr_letsA\nr_letsB\nr_RtoG",
+   "translation": "l_field\nl_forest\nl_inner\nl_king\nl_ogre\nl_tonnel\nl_wood\nl_WtoR\nr_lets\nr_letsA\nr_letsB\nr_RtoG"
+  },
+  {
+   "id": 265,
+   "cast_chunk": 264,
+   "cast_slot": 90,
+   "original": "e_last\ne_mount\ne_rm1\ne_rm2\ne_stairs",
+   "translation": "e_last\ne_mount\ne_rm1\ne_rm2\ne_stairs"
+  }
+ ]
+}

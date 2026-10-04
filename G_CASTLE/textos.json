@@ -1,0 +1,20 @@
+{
+ "source": "G_CASTLE.DXR",
+ "encoding": "cp1252",
+ "entries": [
+  {
+   "id": 118,
+   "cast_chunk": 117,
+   "cast_slot": 35,
+   "original": "Enter your age in numericals here.",
+   "translation": "Enter your age in numericals here."
+  },
+  {
+   "id": 367,
+   "cast_chunk": 366,
+   "cast_slot": 53,
+   "original": "Enter your age in numericals here.",
+   "translation": "Enter your age in numericals here."
+  }
+ ]
+}

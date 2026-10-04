@@ -1,0 +1,27 @@
+{
+ "source": "E_MOUNT.DXR",
+ "encoding": "cp1252",
+ "entries": [
+  {
+   "id": 61,
+   "cast_chunk": 60,
+   "cast_slot": 16,
+   "original": "San-a-mong",
+   "translation": "San-a-mong"
+  },
+  {
+   "id": 90,
+   "cast_chunk": 89,
+   "cast_slot": 79,
+   "original": "Type here.",
+   "translation": "Type here."
+  },
+  {
+   "id": 259,
+   "cast_chunk": 170,
+   "cast_slot": 78,
+   "original": "Type here.",
+   "translation": "Type here."
+  }
+ ]
+}

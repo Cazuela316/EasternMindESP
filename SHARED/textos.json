@@ -1,0 +1,69 @@
+{
+ "source": "SHARED.DIR",
+ "encoding": "cp1252",
+ "entries": [
+  {
+   "id": 208,
+   "cast_chunk": 207,
+   "cast_slot": 94,
+   "original": "menu:@\nAbout \"Tong-Nou\"Åalert the text of cast \"copyright\"\nmenu:File\nNew Game/NÅNewGame\nOpen Game/OÅLoadGame\n(Save Game/SÅSaveGame\n(-\nQuit/QÅquitTongNou\nmenu:Sound\nLevel 0ÅsetsoundLevel 0\nLevel 1ÅsetsoundLevel 1\nLevel 2ÅsetsoundLevel 2\nLevel 3ÅsetsoundLevel 3\nLevel 4ÅsetsoundLevel 4\nLevel 5ÅsetsoundLevel 5\nLevel 6ÅsetsoundLevel 6\nLevel 7ÅsetsoundLevel 7",
+   "translation": "menu:@\nAbout \"Tong-Nou\"Åalert the text of cast \"copyright\"\nmenu:File\nNew Game/NÅNewGame\nOpen Game/OÅLoadGame\n(Save Game/SÅSaveGame\n(-\nQuit/QÅquitTongNou\nmenu:Sound\nLevel 0ÅsetsoundLevel 0\nLevel 1ÅsetsoundLevel 1\nLevel 2ÅsetsoundLevel 2\nLevel 3ÅsetsoundLevel 3\nLevel 4ÅsetsoundLevel 4\nLevel 5ÅsetsoundLevel 5\nLevel 6ÅsetsoundLevel 6\nLevel 7ÅsetsoundLevel 7"
+  },
+  {
+   "id": 216,
+   "cast_chunk": 215,
+   "cast_slot": 98,
+   "original": "menu:@\nAbout \"Tong-Nou\"Åalert the text of cast \"copyright\"\nmenu:File\nNew Game/NÅNewGame\nOpen Game/OÅLoadGame\nSave Game/SÅSaveGame\n(-\nQuit/QÅquitTongNou\nmenu:Sound\nLevel 0ÅsetsoundLevel 0\nLevel 1ÅsetsoundLevel 1\nLevel 2ÅsetsoundLevel 2\nLevel 3ÅsetsoundLevel 3\nLevel 4ÅsetsoundLevel 4\nLevel 5ÅsetsoundLevel 5\nLevel 6ÅsetsoundLevel 6\nLevel 7ÅsetsoundLevel 7",
+   "translation": "menu:@\nAbout \"Tong-Nou\"Åalert the text of cast \"copyright\"\nmenu:File\nNew Game/NÅNewGame\nOpen Game/OÅLoadGame\nSave Game/SÅSaveGame\n(-\nQuit/QÅquitTongNou\nmenu:Sound\nLevel 0ÅsetsoundLevel 0\nLevel 1ÅsetsoundLevel 1\nLevel 2ÅsetsoundLevel 2\nLevel 3ÅsetsoundLevel 3\nLevel 4ÅsetsoundLevel 4\nLevel 5ÅsetsoundLevel 5\nLevel 6ÅsetsoundLevel 6\nLevel 7ÅsetsoundLevel 7"
+  },
+  {
+   "id": 224,
+   "cast_chunk": 223,
+   "cast_slot": 105,
+   "original": "Copyright\n\n1995 Sony Imagesoft and all its licensors. All rights reserved.\n1994 Osamu Sato & O.S.D. Co.,LTD.\nDirector © 1994 Macromedia, Inc.\n\n",
+   "translation": "Copyright\n\n1995 Sony Imagesoft and all its licensors. All rights reserved.\n1994 Osamu Sato & O.S.D. Co.,LTD.\nDirector © 1994 Macromedia, Inc.\n\n"
+  },
+  {
+   "id": 226,
+   "cast_chunk": 225,
+   "cast_slot": 106,
+   "original": "This File is for saving [Tong-Nou] data. To resume a game from the saved data, double click on the[Tong-Nou Start] icon and choose [Open Game] from the [File] menu bar. Then [Open] the data you want to load.",
+   "translation": "This File is for saving [Tong-Nou] data. To resume a game from the saved data, double click on the[Tong-Nou Start] icon and choose [Open Game] from the [File] menu bar. Then [Open] the data you want to load."
+  },
+  {
+   "id": 253,
+   "cast_chunk": 252,
+   "cast_slot": 109,
+   "original": "The saving of data was unsuccessful. :",
+   "translation": "The saving of data was unsuccessful. :"
+  },
+  {
+   "id": 255,
+   "cast_chunk": 254,
+   "cast_slot": 110,
+   "original": "This is not a [Tong-Nou] data file. Please select an appropriate file.",
+   "translation": "This is not a [Tong-Nou] data file. Please select an appropriate file."
+  },
+  {
+   "id": 257,
+   "cast_chunk": 256,
+   "cast_slot": 111,
+   "original": "The loading of data was unsuccessful. :",
+   "translation": "The loading of data was unsuccessful. :"
+  },
+  {
+   "id": 376,
+   "cast_chunk": 375,
+   "cast_slot": 115,
+   "original": "Lin,Byou,Toh,Sha,Kai,Jin,Lets,Zen,Gyou",
+   "translation": "Lin,Byou,Toh,Sha,Kai,Jin,Lets,Zen,Gyou"
+  },
+  {
+   "id": 473,
+   "cast_chunk": 470,
+   "cast_slot": 114,
+   "original": "Card_LIN,Card_BYOU,Card_TOH,Card_SHA,Card_KAI,Card_JIN,Card_LETS,Card_ZEN,Card_GYOU,Maga_METAL,Maga_WATER,Maga_WOOD,Maga_FIRE,Maga_EARTH,Book,Amulet,Hitogata,Peach,EyeBall,Ant,Chime,MorningGlory,Koma,Compass,Glasses,GoldIngot,SmallMallet,Panacea,Hyotan,SunWater,SheepIntestine,Chopsticks,GoldenFlower,key,SoundBox,Kane,Hue,Koto,Taiko,Wrench,DreamingEye,LeafSack_empty,LeafSack_full,WoodDisk,Registration,Mirror,Force_EARTH,Force_METAL,Force_WATER,Force_WOOD,Force_FIRE,Sword",
+   "translation": "Card_LIN,Card_BYOU,Card_TOH,Card_SHA,Card_KAI,Card_JIN,Card_LETS,Card_ZEN,Card_GYOU,Maga_METAL,Maga_WATER,Maga_WOOD,Maga_FIRE,Maga_EARTH,Book,Amulet,Hitogata,Peach,EyeBall,Ant,Chime,MorningGlory,Koma,Compass,Glasses,GoldIngot,SmallMallet,Panacea,Hyotan,SunWater,SheepIntestine,Chopsticks,GoldenFlower,key,SoundBox,Kane,Hue,Koto,Taiko,Wrench,DreamingEye,LeafSack_empty,LeafSack_full,WoodDisk,Registration,Mirror,Force_EARTH,Force_METAL,Force_WATER,Force_WOOD,Force_FIRE,Sword"
+  }
+ ]
+}

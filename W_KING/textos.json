@@ -1,0 +1,27 @@
+{
+ "source": "W_KING.DXR",
+ "encoding": "cp1252",
+ "entries": [
+  {
+   "id": 30,
+   "cast_chunk": 29,
+   "cast_slot": 4,
+   "original": "Type here.",
+   "translation": "Type here."
+  },
+  {
+   "id": 32,
+   "cast_chunk": 31,
+   "cast_slot": 5,
+   "original": "Ying",
+   "translation": "Ying"
+  },
+  {
+   "id": 488,
+   "cast_chunk": 487,
+   "cast_slot": 6,
+   "original": "Type here.",
+   "translation": "Type here."
+  }
+ ]
+}

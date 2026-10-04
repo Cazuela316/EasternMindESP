@@ -1,0 +1,27 @@
+{
+ "source": "W_AUN.DXR",
+ "encoding": "cp1252",
+ "entries": [
+  {
+   "id": 164,
+   "cast_chunk": 163,
+   "cast_slot": 54,
+   "original": "Type here.",
+   "translation": "Type here."
+  },
+  {
+   "id": 172,
+   "cast_chunk": 171,
+   "cast_slot": 58,
+   "original": "Golden Flower\nGoldenFlower",
+   "translation": "Golden Flower\nGoldenFlower"
+  },
+  {
+   "id": 228,
+   "cast_chunk": 227,
+   "cast_slot": 74,
+   "original": "Type here.",
+   "translation": "Type here."
+  }
+ ]
+}

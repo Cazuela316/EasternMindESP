@@ -1,0 +1,27 @@
+{
+ "source": "L_INNER.DXR",
+ "encoding": "cp1252",
+ "entries": [
+  {
+   "id": 23,
+   "cast_chunk": 22,
+   "cast_slot": 1,
+   "original": "Tou-gyou\nthe king of Central Mountain\nthe king of Central Mountain Tong-nou\nthe king of Tong-nou",
+   "translation": "Tou-gyou\nthe king of Central Mountain\nthe king of Central Mountain Tong-nou\nthe king of Tong-nou"
+  },
+  {
+   "id": 116,
+   "cast_chunk": 115,
+   "cast_slot": 40,
+   "original": ".",
+   "translation": "."
+  },
+  {
+   "id": 167,
+   "cast_chunk": 166,
+   "cast_slot": 78,
+   "original": "Type here.",
+   "translation": "Type here."
+  }
+ ]
+}
