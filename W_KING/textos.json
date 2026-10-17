@@ -7,21 +7,21 @@
    "cast_chunk": 29,
    "cast_slot": 4,
    "original": "Type here.",
-   "translation": "Escribe aqu?"
+   "translation": "Escribe aquí"
   },
   {
    "id": 32,
    "cast_chunk": 31,
    "cast_slot": 5,
    "original": "Ying",
-   "translation": "Ying"
+   "translation": "Ying\nYING\nying"
   },
   {
    "id": 488,
    "cast_chunk": 487,
    "cast_slot": 6,
    "original": "Type here.",
-   "translation": "Escribe aqu?"
+   "translation": "Escribe aquí"
   }
  ]
 }
